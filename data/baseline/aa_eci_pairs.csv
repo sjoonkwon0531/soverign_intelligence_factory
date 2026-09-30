@@ -1,0 +1,19 @@
+﻿model,aa,eci,access,eci_name
+GPT-6 Astra,53,166.31,Closed weights,GPT-6 Astra
+Claude Fable 5.1,53,164.47,Closed weights,Claude Fable 5.1
+Claude Opus 5,51,162.3,Closed weights,Claude Opus 5
+GPT-5.6 Sol,47,161.81,Closed weights,GPT-5.6 Sol
+GPT-5.6 Terra,42,159.14,Closed weights,GPT-5.6 Terra
+Kimi K3,44,157.63,Open weights,Kimi K3
+Qwen 3.8 Max,45,156.62,Closed weights,Qwen 3.8 Max
+Gemini 3.8 Flash,41,156.54,Closed weights,Gemini 3.8 Flash
+Grok 4.6,44,156.35,Closed weights,Grok 4.6
+Claude Sonnet 5,38,156.22,Closed weights,Claude Sonnet 5
+DeepSeek V4 Pro 0813,36,155.47,Open weights,DeepSeek V4 Pro 0813
+GLM-5.3,45,155.25,Closed weights,GLM-5.3
+DeepSeek V4 Flash 0731,35,154.49,Open weights,DeepSeek V4 Flash 0731
+Qwen3.7-Plus,25,147.41,Closed weights,Qwen3.7-Plus
+Qwen3.5 397B-A17B,18,146.96,Open weights,Qwen3.5 397B-A17B
+Inkling,25,148.64,Open weights,Inkling
+o3,20,146.91,Closed weights,o3
+Mistral Medium 3.5,14,141.28,Open weights,Mistral Medium 3.5

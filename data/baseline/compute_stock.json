@@ -1,0 +1,74 @@
+{
+ "global_stock_H100e_yearend": {
+  "2022": 0.28,
+  "2023": 1.58,
+  "2024": 6.79,
+  "2025": 20.93
+ },
+ "global_stock_growth": {
+  "2023": 5.67,
+  "2024": 4.31,
+  "2025": 3.08
+ },
+ "share_2025": {
+  "US_hyperscaler_neocloud_xAI": 0.752,
+  "China_incl_smuggled": 0.087,
+  "Other_world": 0.161
+ },
+ "chip_sales_cum_H100e": {
+  "2024-12": 6.69,
+  "2025-12": 20.29,
+  "2026-06": 27.54
+ },
+ "chip_sales_growth_2025": 3.03,
+ "chip_sales_H1_2026_annualized": 1.84,
+ "AIDC_US": {
+  "n": 75,
+  "H100e_M": 12.74,
+  "IT_GW": 11.92
+ },
+ "eps_IT_kW_per_H100e": 0.936,
+ "KR_tracked_clusters": {
+  "n": 10,
+  "H100e": 6286,
+  "largest": "Samsung SSC4",
+  "largest_H100e": 2496
+ },
+ "largest_cluster_US": {
+  "name": "xAI Colossus Memphis Phase 3",
+  "H100e": 275796
+ },
+ "largest_cluster_CN_H100e": 10000,
+ "single_cluster_gap_US_over_KR": 110,
+ "cluster_share_pct": {
+  "US": 80.9,
+  "CN": 7.1,
+  "KR": 0.41
+ },
+ "KR_position_2025": {
+  "KR_H100e_mid": 52000,
+  "share_of_global_pct": 0.248,
+  "US_owned_over_KR": 303,
+  "China_over_KR": 35,
+  "global_over_KR": 402
+ },
+ "frontier_flop_log10_by_year": {
+  "2022": 24.44,
+  "2023": 25.7,
+  "2024": 25.58,
+  "2025": 26.7
+ },
+ "frontier_flop_growth_decade_per_yr": 0.67,
+ "frontier_flop_growth_x_per_yr": 4.6,
+ "KR_2026_models_flop_log10": {
+  "Motif-3": 24.04,
+  "K-EXAONE 2.0": 24.55,
+  "A.X K2": 24.26,
+  "Solar Open2 250B": 24.02,
+  "EXAONE 4.5": 24.59
+ },
+ "KR_2026_sum_flop_log10": 25.05,
+ "chip_kW_per_H100e_trend_pct_yr": -19.2,
+ "chip_USD_per_H100e_trend_pct_yr": -17.9,
+ "AA_vs_FLOP_note": "공개 모델 11개: 국가 고정효과 모형 R²=0.83, 국가 내 FLOP 기울기 ≈0(음수·비유의) → 2026 오픈 모델 구간에서 AA 점수는 사전학습 FLOP보다 국가(랩) 효율에 의해 결정; CN−KR 절편 차 ≈18.5점"
+}
